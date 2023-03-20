@@ -1,0 +1,23 @@
+{
+  "name": "testsass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass --watch main.scss ./style/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CemilYavuz/testSass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CemilYavuz/testSass/issues"
+  },
+  "homepage": "https://github.com/CemilYavuz/testSass#readme",
+  "dependencies": {
+    "sass": "^1.59.3"
+  }
+}
